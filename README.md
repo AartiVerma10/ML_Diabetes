@@ -1,7 +1,7 @@
 # -Project Goal-
 
 The primary objective of this project is to build a machine learning model to predict diabetes. It uses a K Nearest Neighbors (KNN) classifier.
-
+Source of diabetes.csv data is from kaggle - [link](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download)
 
 ---
 
